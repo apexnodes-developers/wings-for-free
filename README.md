@@ -256,4 +256,4 @@ CGO_ENABLED=0 GOOS=linux GOARCH=amd64 \
 
 ## License
 
-This fork inherits the license of the original [Pterodactyl/Wings](https://github.com/pterodactyl/wings) project.
+[MIT License](https://github.com/trusted-technologies/wings-for-free-hosting/blob/develop/LICENSE)
